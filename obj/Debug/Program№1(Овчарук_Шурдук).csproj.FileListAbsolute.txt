@@ -1,0 +1,8 @@
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\obj\Debug\Program№1(Овчарук_Шурдук).csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\obj\Debug\Program№1(Овчарук_Шурдук).csproj.SuggestedBindingRedirects.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\obj\Debug\Program№1(Овчарук_Шурдук).csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\bin\Debug\Program№1(Овчарук_Шурдук).exe.config
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\bin\Debug\Program№1(Овчарук_Шурдук).exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\bin\Debug\Program№1(Овчарук_Шурдук).pdb
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\obj\Debug\Program№1(Овчарук_Шурдук).exe
+\\serv31\Для сохранения работ\215 группа\Овчарук Дарья\Program№1(Овчарук_Шурдук)\obj\Debug\Program№1(Овчарук_Шурдук).pdb
